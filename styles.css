@@ -1,0 +1,42 @@
+.topdiv {
+	text-align:center;
+	background-color: #F2EEEE;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.qdiv {
+	border-top-style: dotted;
+	border-color: #9D3FF0;
+	border-width: 1px;
+	font: 'arial';
+	font-size: 18px;
+  	margin: 0px 2px 15px 2px;
+  	padding: 0px 17px 5px 17px;
+}
+
+.musicdiv {
+	padding: 0px 0px 0px 17px;
+	margin: 0px 0px 5px 0px;
+	font-size: 12pt;
+	border: 1px solid blue;
+	background: #CFFCF7;
+	border-radius: 25px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+table {
+	background-color: #D186FD;
+	border: 2px solid #050140;
+	width: 90%;
+
+}
+
+th {
+	border: 2px solid #150E73;
+}
+
+td {
+	border: 2px solid #150E73;
+	width: 230px;
+	height: 50px;
+}
